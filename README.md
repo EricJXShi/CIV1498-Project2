@@ -1,7 +1,7 @@
 # CIV1498 - Project2
 
 
-## Group name: 
+## Group name: TeamName.notnull
 
 
 ## Quick links: 
