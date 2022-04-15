@@ -45,8 +45,3 @@
 14. “SubwayStopClosestDist” = Haversine distance between center of parcel to nearest subway station (FT – float)
 15. “Neighborhood” = name of the neighborhood where parcel is located (object)
 
-16. **Total ImprovementValue from 2006 to 2021 (float) (This column will be added later)**
-17. **How many times it was improved between 2006-2021 (int) (This column will be added later)**
-
-**Please let me know if we can improve the existing features or add new ones to the list.**
-
