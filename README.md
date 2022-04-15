@@ -29,3 +29,6 @@
     
 8. LA City Bus Benches
     * https://geohub.lacity.org/maps/lahub::bus-stop-benches
+
+9. LA City Clean Street Index
+    * https://geohub.lacity.org/datasets/lahub::clean-streets-index-segments-2021-b1/about
