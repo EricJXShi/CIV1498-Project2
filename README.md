@@ -32,3 +32,6 @@
 
 9. LA City Clean Street Index
     * https://geohub.lacity.org/datasets/lahub::clean-streets-index-segments-2021-b1/about
+
+10. Completed Medium Article Link
+    * https://medium.com/@peter.rymal/la-parcel-price-predictions-c1ff0965312b
